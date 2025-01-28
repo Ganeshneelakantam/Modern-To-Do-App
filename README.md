@@ -42,6 +42,9 @@ A feature-rich Todo application built with React, designed to help you manage yo
    
 5. Open your browser and visit http://localhost:3000 to view the app.
 
+6. ![image](https://github.com/user-attachments/assets/dd22769b-ccd5-4ff7-a13e-8b4dfb6b775e)
+
+
 ## Usage
 
 - **Add a Todo**: Click the "Add Todo" button to create a new task.
