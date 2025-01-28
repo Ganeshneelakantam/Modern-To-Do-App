@@ -22,4 +22,4 @@ A feature-rich Todo application built with React, designed to help you manage yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone [https://github.com/your-username/todo-app.git](https://github.com/Ganeshneelakantam/Modern-To-Do-App.git)
